@@ -4,29 +4,31 @@
   ability of Steve Jobs to get his engineers to buy into his vision
   and build machines just at the edge of what was possible with the
   technology at the time. We wouldn't be talking about Apple or Jobs
-  or his Reality Distortion Field if not for his other talent, which
+  or his Reality Distortion Field, if not for his other talent, which
   was his uncanny ability to pick the right things to build: things
   that nobody imagined or expected, but had to have once seen.
   
-  A prime example was the creation of the Apple II, which was so
-  far beyond competitors, that it really formed a different category
-  of product: A computer to use, as opposed to a computer to tinker
+  A prime example was the creation of the Apple II, which was so far
+  beyond competitors, that it really formed a different category of
+  product: A computer to use, as opposed to a computer to tinker
   with. The Apple II was lusted after by customers. Same thing with
   the iPod, when the competition was hard-to-use MP3 players. And then
   the iPhone, which redefined what a cellphone was, back when the
   competition sold nothing but portable *phones*. NeXT was the
   forerunner of modern Macs. And there were numerous smaller examples:
-  Adding the 3.5" floppy drive, (and then deleting it).
-  In each case, Steve and Apple were correct,
-  and everyone else was wrong. That was Reality Distortion Field 1.0.
+  Adding the 3.5" floppy drive, (and then deleting it).  In each case,
+  Steve and Apple were correct, everyone else was wrong, and Apple's
+  correctness and everyone else's wrongness became apparent fairly
+  quickly. That was Reality Distortion Field 1.0.
 
   But for a few years now, we have been experiencing a new and
   inferior kind of reality distortion field from Apple. In Reality
   Distortion Field 2.0, Apple's size, and their confidence in their
   ability to change reality is leading them badly astray.  They make
-  decisions for a world that they want to exist, but absolutely cannot
-  ever exist. Apple is a one trillion dollar company and Steve is
-  gone. No wonder it can no longer perceive the world accurately.
+  decisions for a world that they want to exist, hope will exist
+  eventually, but absolutely cannot ever exist. Apple is a one
+  trillion dollar company and Steve is gone. No wonder it can no
+  longer perceive the world accurately.
 
 ## The iPhone case ##
 
@@ -99,7 +101,7 @@
   After I inherited my wife's iPhone 7 Plus, I upgraded to iOS 11,
   and discovered the joys of the new, convenient, aspirational WiFi
   control. You swipe up, and get a control panel. There is a button
-  with a WiFi logo, for toggling WiFi connectivity. When you disable
+  with a WiFi icon, for toggling WiFi connectivity. When you disable
   WiFi, a message flashes: "Disconnecting Nearby Wi-Fi Until
   Tomorrow". But your WiFi isn't really disconnected. It is
   temporarily stunned, and soon will doggedly keep trying to
@@ -155,15 +157,15 @@ Apple laptops used to have great keyboards. Easy to type on, but
 
 ## iCloud ##
 
-  Apple imagines a world in which I can move seamlessly from one of
-  my many Apple devices to another, and whatever item I want,
-  regardless of where I created it or last used it, the latest version
-  of this item is magically available on the device I am currently
-  using. It's a beautiful idea. According to RDF 2.0, connectivity is
-  perfect, and so fast that any digital asset I care about can be
-  moved to my device in the 2 msec between the time I press a button,
-  and my brain registers the haptic feedback, and tells my eyes and
-  ears to expect the content to start playing.
+  Apple imagines a world in which I can move seamlessly from one of my
+  many Apple devices to another, and whatever item I want, regardless
+  of where I created it or last used it, the latest version of this
+  item is magically available on the device I am currently using. It's
+  a beautiful idea. According to RDF 2.0, connectivity is perfect, and
+  so fast that any digital asset I care about can be moved to my
+  current device in the 2 msec between the time I press a button, and
+  my brain registers the haptic feedback, and tells my eyes and ears
+  to expect the content to start playing.
   
   But in the real world, iCloud has decided to replace my rare Bob Dylan
   bootleg by the standard version from Blonde on Blonde. Or I want to
