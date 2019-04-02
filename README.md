@@ -115,7 +115,7 @@
   during these pathetic attempts to be helpful, your connectivity is
   completely gone, because you have sensibly configured your phone to
   prefer WiFi to a cellular connection.  Eventually, you get so tired
-  of these nuisances, that you go to the phone's full Settings panel
+  of these nuisances that you go to the phone's full Settings panel
   and actually turn off WiFi for real.
   
   It should be the case that when you return to a familiar
@@ -150,7 +150,7 @@ Apple laptops used to have great keyboards. Easy to type on, but
   keys by the execrable touchbar. The touchbar is clearly the result
   of design-by-committee, as it isn't available on any non-laptop
   keyboard, even those made by Apple. It's as if there was one group
-  that wanted them, another group realized that these things were the
+  that wanted them, but another group realized that these things were the
   second coming of Clippy, and laptops-only was the compromise. Back
   in RDF 1.0 days, there would at least have been *one* view of
   reality.
@@ -211,7 +211,7 @@ Apple laptops used to have great keyboards. Easy to type on, but
   
   First, there is DRM. Too many distributors of "content" really love
   the model in which you don't "own" things, like music or movies; you
-  merely have the right to play them in proscribed
+  merely have the right to play them in prescribed
   ways. This isn't Apple's fault. But until it changes, sharing is
   not seamless, and their cloud model can't really work.
   
